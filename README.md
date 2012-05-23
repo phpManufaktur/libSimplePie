@@ -31,7 +31,8 @@ You will find some sample Droplet Code in `/modules/lib_simplepie/droplets/`.
 
 * in the CMS backend select "Admin-Tools" -> "Droplets" -> "Add Droplet"
 * name the Droplet "rss_feed"
-* insert the following code:
+
+Now insert the following code:
 
     if (!file_exists(WB_PATH.'/modules/lib_simplepie//SimplePie/SimplePie.compiled.php')) {
       return "The library SimplePie is not installed!";
