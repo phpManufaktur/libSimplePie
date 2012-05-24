@@ -6,7 +6,7 @@ A library for the Content Management Systems [WebsiteBaker] [1] and [LEPTON CMS]
 
 * minimum PHP 5.2.x
 * using [WebsiteBaker] [1]
-* /or/ using [LEPTON CMS] [2]
+* _or_ using [LEPTON CMS] [2]
 
 #### Installation
 
